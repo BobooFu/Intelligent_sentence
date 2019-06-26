@@ -57,9 +57,9 @@ article_detail	法律条文具体内容	str
 
 ## **模块简介**
 整个工作目录下包含三大模块：
-1. 数据预处理 [data_utils]    包括[data_preparation.py](/data_utils/data_preparation.py)  [data_processing.py](/data_utils/data_processing.py)   [evaluation.py](/data_utils/evaluation.py)
-2. 模型训练 [model]           [train_textcnn_keras.py]
-3. 对结果的最终预测 [precditor]   "predictor.py"
+1. 数据预处理 [data_utils]    包括[data_preparation.py](/data_utils/data_preparation.py)     [data_processing.py](/data_utils/data_processing.py)       [evaluation.py](/data_utils/evaluation.py)
+2. 模型训练 [model]           [train_textcnn_keras.py](/train_textcnn_keras.py)
+3. 对结果的最终预测 [precditor]   [predictor.py]      (/predictor.py)
 
 
 
